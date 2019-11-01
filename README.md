@@ -1,5 +1,5 @@
 <h1> StudentsPage </h1>
-<h4><i>CCExtractor Static Site for GCI/GSoC Students.</h1></h4>
+<h4><i>CCExtractor Static Site for GCI/GSoC Students.</i></h4>
 <br>
 <strong>Update Ongoing... [As of: 1 November 2019 15:05 PHT]</strong>
 <hr>
