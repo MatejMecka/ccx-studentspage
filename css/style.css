@@ -397,7 +397,6 @@ form {
 
 .pagesMainBody {
   background-color: rgba(12, 12, 12, 0.45);
-  /*color: #FF3639;*/
   color: #FFFFFF;
   position: relative;
   margin-left: 1.5rem;
@@ -434,7 +433,7 @@ form {
 }
 
 .pagesLinks {
-  color: #F99E4C;;
+  color: #F99E4C;
 }
 
 .pagesLinks:hover {
@@ -1004,7 +1003,7 @@ kbd {
 
   .pagesMainBody {
     background-color: rgba(12, 12, 12, 0.45);
-    color: #FF3639;
+    color: #FFFFFF;
     position: relative;
     margin-left: 1.5rem;
     margin-right: 1.5rem;
